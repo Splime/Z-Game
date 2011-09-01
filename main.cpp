@@ -3,8 +3,6 @@
  * Started 2011/07/22
  *
  * main.cpp: Main driver of the program
- *
- * TODO: Now that world1.txt is complete, make the world loader, and add fancy graphics
  */
 
 #include "chapGlobals.h"
