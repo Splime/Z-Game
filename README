@@ -1,5 +1,9 @@
 Z Game - Dev Notes/README
 
+==== Notes: ====
+
+- For the lib folder, there should be two .h files, a .lib file, and a .dll. The .dll needs to be in the project folder when you run the exe, everything else just needs to be included properly by the IDE.
+
 ==== To Do: ====
 
 - Figure out a plan for who does what, etc.
