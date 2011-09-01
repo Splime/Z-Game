@@ -1,1 +1,14 @@
-This is a readme! Shoop-da-woop!11!
+Z Game - Dev Notes/README
+
+==== To Do: ====
+
+- Figure out a plan for who does what, etc.
+
+- For Version 0.02: Setup some Zombies and basic "pathfinding"!
+
+==== Version History: ====
+
+v0.01a (2011-07-22): Project Started
+...
+v0.01d (2011-08-17): Got a very simple class structure setup, a GUI with panels, etc.
+v0.01e (2011-08-31): Panels and movement fixed and tweaked, added everything to GitHub, added Anthony as a contributor
